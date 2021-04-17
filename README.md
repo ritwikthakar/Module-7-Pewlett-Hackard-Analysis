@@ -8,7 +8,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
 - 32.5% of Senior engineers and 31.2% of senior staff seem to the titles retiring from PH.
 ![Retiring Titles]()
 - Currently a total of 1549 existing employees are currently eligible for the mentorship program to fill in these retiring titles
-![Mentorship Eligibility]()
+![Mentorship Eligibility](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Mentorship.PNG)
 ## Summary
 To bolster the mentorship program, I would make the following queries to the database.
 - We can create a new table from the mentorship eligibility table to see the title of existing employees currently eligible for the mentorship program to see how many employees can be groomed from within PH. We can use the Count and Group by function to achieve this.

@@ -6,7 +6,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ![Unique Titles]()
 - A total of 90,398 titles are retiring from PH this year
 - 32.5% of Senior engineers and 31.2% of senior staff seem to the titles retiring from PH.
-![Retiring Titles]()
+![Retiring Titles](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Retiring%20Titles.PNG)
 - Currently a total of 1549 existing employees are currently eligible for the mentorship program to fill in these retiring titles
 ![Mentorship Eligibility](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Mentorship.PNG)
 ## Summary

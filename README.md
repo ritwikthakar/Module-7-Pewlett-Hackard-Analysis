@@ -9,6 +9,6 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ## Summary
 To bolster the mentorship program, I would make the following queries to the database.
 - We can create a new table from the mentorship eligibility table to see the title of existing employees currently eligible for the mentorship program to see how many employees can be groomed from within PH. We can use the Count and Group by function to achieve this.
-![](images/Fig1.png)
+![Rec_1](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Rec%201.PNG)
 
 - Additionally, we can explore how long these employees have been in their current roles and get the potential proteges identified for the potential mentors we have already found. We can join Employee No., first name, last name from employees table and title & from date from the titles table and use condition where hire date is between 1985-01-01 and 1995-12-31 to get a list of the most experienced employees in PH

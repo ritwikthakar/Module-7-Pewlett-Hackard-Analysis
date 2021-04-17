@@ -12,4 +12,4 @@ To bolster the mentorship program, I would make the following queries to the dat
 ![Rec_1](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Rec%201.PNG)
 
 - Additionally, we can explore how long these employees have been in their current roles and get the potential proteges identified for the potential mentors we have already found. We can join Employee No., first name, last name from employees table and title & from date from the titles table and use condition where hire date is between 1985-01-01 and 1995-12-31 to get a list of the most experienced employees in PH
-![Rec_2](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Rec%201.PNG)
+![Rec_2](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Rec%202.PNG)

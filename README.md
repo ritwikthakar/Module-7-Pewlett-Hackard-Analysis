@@ -3,7 +3,7 @@
 The purpose of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. The final step will be to create a report that summarizes our analysis and help PH prepare for the “silver tsunami” as many current employees reach retirement age.
 ## Results
 - After joining tables employee & titles and filtering to birth dates in 1952-1955, the instructions in the challenge walk you using partitioning the data to find and remove unwanted duplicate rows.
-![Unique Titles]()
+![Unique Titles](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Unique.PNG)
 - A total of 90,398 titles are retiring from PH this year
 - 32.5% of Senior engineers and 31.2% of senior staff seem to the titles retiring from PH.
 ![Retiring Titles](https://github.com/ritwikthakar/Module-7-Pewlett-Hackard-Analysis/blob/main/Resources/Retiring%20Titles.PNG)
